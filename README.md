@@ -53,7 +53,7 @@ Precise yield prediction allows for optimized plantation management and resource
 * **Result:** Confirmed distinct **tissue-specific clusters**, providing the statistical proof required for predictive modeling.
 
 <p align="center">
-  <img src="pca_scree_plot.png" width="600" alt="Scree Plot">
+  <img src="https://github.com/SwaralakshmiJ/ML-Driven-Teak-Yield-Prediction/blob/main/images/03-heatmap.png" width="600" alt="Scree Plot">
 </p>
 ---
 
