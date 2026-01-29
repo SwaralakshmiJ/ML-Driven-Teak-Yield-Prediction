@@ -42,7 +42,7 @@ Precise yield prediction allows for optimized plantation management and resource
 * **Result:** Successfully captured **83.2% of total variance** while reducing the feature space by over 95%.
 
 <p align="center">
-  <img src="pca_scree_plot.png" width="600" alt="Scree Plot">
+  <img src="" width="600" alt="Scree Plot">
 </p>
 
 ---
@@ -53,9 +53,8 @@ Precise yield prediction allows for optimized plantation management and resource
 * **Result:** Confirmed distinct **tissue-specific clusters**, providing the statistical proof required for predictive modeling.
 
 <p align="center">
-  <img src="pca_result.png" width="600" alt="PCA Cluster Mapping">
+  <img src="pca_scree_plot.png" width="600" alt="Scree Plot">
 </p>
-
 ---
 
 ### 🌟 Step 5: Random Forest Modeling & LOOP Validation
