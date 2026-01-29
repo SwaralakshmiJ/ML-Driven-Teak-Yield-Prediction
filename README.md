@@ -55,6 +55,9 @@ Precise yield prediction allows for optimized plantation management and resource
 <p align="center">
   <img src="https://github.com/SwaralakshmiJ/ML-Driven-Teak-Yield-Prediction/blob/main/images/03-heatmap.png" width="600" alt="Scree Plot">
 </p>
+<p align="center">
+  <img src="https://github.com/SwaralakshmiJ/ML-Driven-Teak-Yield-Prediction/blob/main/images/02-histogram.png" width="600" alt="Scree Plot">
+</p>
 ---
 
 ### 🌟 Step 5: Random Forest Modeling & LOOP Validation
