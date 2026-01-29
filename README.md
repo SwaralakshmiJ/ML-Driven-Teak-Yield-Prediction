@@ -1,4 +1,4 @@
-# 🌳 ML-Driven Teak(Tectona grandis) Age and Tissue Signature Prediction Using Trabscriptomic Data 
+# 🌳 ML-Driven Teak(Tectona grandis) Age and Tissue Signature Prediction Using Transcriptomic Data 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 > **Goal:** Transforming complex transcriptomic (gene expression) signatures into precise yield forecasts for *Tectona grandis* using a high-fidelity Random Forest pipeline.
@@ -42,7 +42,7 @@ Precise yield prediction allows for optimized plantation management and resource
 * **Result:** Successfully captured **83.2% of total variance** while reducing the feature space by over 95%.
 
 <p align="center">
-  <img src="" width="600" alt="Scree Plot">
+  <img src="https://github.com/SwaralakshmiJ/ML-Driven-Teak-Yield-Prediction/blob/main/images/01-pca_scree_plot.png" width="600" alt="Scree Plot">
 </p>
 
 ---
